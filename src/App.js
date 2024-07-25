@@ -5,7 +5,7 @@ import Create from './components/Create.js';
 function App() {
   return (
     <div className="main">
-      <h2 className="main-header">React Crud Operations</h2>
+      <h2 className="main-header">Crud Operation</h2>
       <div>
         <Create/>
       </div>
